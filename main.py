@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 # coding: UTF-8
-# coded by Tegar ID
+# coded by Mr-S4NTUY
 # 22 november 2020
 # open source
 import requests, json, os, sys, random
@@ -31,8 +31,8 @@ def logo():
         \/|__|       \/      \/          \/     \/
 
 
-                     [\033[41;1m Author : Tegar ID \033[00;1m\033[37;1m]
-                    \033[31;1m[\033[47;1m Dunia Kode Developer \033[00;1m\033[31;1m]
+                     [\033[41;1m Author : Mr-S4NTUY \033[00;1m\033[37;1m]
+                    \033[31;1m[\033[47;1m Tahlita \033[00;1m\033[31;1m]
         \033[00;1m
     """
 
